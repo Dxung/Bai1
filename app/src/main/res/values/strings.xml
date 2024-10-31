@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bai1</string>
+    <string name="textview_input_instruction">nhap vao so n</string>
+    <string name="button1_text">so chan</string>
+    <string name="button2_text">so le</string>
+    <string name="button3_text">so chinh phuong</string>
+    <string name="result_notification">ketqua</string>
+    <string name="result_button">Show Result</string>
+</resources>
